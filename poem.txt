@@ -2,5 +2,6 @@ The Rainbow
 Purple 
 Pink
 Blue
+Green
 Red
 This is the color of my rainbow
