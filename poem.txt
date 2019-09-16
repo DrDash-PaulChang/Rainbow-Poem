@@ -3,5 +3,6 @@ Purple
 Pink
 Blue
 Green
+Yellow
 Red
 This is the color of my rainbow
